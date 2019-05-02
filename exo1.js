@@ -28,7 +28,7 @@ function removeAll2(tab,value) {
  } ).join(' ');
  }
 // function doneorNot
-
+ 
 function doneOrNot(board) {
 
   let tabHCorrect = [];
